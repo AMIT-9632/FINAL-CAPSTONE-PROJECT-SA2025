@@ -51,9 +51,9 @@ This project demonstrates the ability to handle real-time data engineering, adva
 
 ### 2. Data Processing & Analysis
 
-- **pandas**
+- **Pandas**
   - Data loading, cleaning, manipulation, and CSV export.
-- **numpy**
+- **Numpy**
   - Numerical operations and array manipulations.
 
 ### 3. Real-Time Data Streaming & Windowing
@@ -72,7 +72,7 @@ This project demonstrates the ability to handle real-time data engineering, adva
 
 ### 5. Additional Python Standard Libraries
 
-- **datetime**
+- **Datetime**
   - Date and time parsing, window definitions, and time-based aggregations.
 
 **Overall Overview of the Techstack**
