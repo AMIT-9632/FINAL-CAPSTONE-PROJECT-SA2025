@@ -87,5 +87,8 @@ This project demonstrates the ability to handle real-time data engineering, adva
 
 The above set of tech stack enabled robust, real-time, and explainable dynamic pricing for urban parking spaces, from raw data ingestion to interactive visualization.
 
-**The Architecture Diagram following model 1**
+**The Architecture Diagram following Model 1**
 ![Untitled diagram _ Mermaid Chart-2025-07-07-075946](https://github.com/user-attachments/assets/723ea145-3b9e-4db5-be5a-3893e0071c1d)
+**The Architecture Diagram following Model 1**
+![Untitled diagram _ Mermaid Chart-2025-07-07-080721](https://github.com/user-attachments/assets/86dc1481-792d-466c-aff1-a51373852e2c)
+
