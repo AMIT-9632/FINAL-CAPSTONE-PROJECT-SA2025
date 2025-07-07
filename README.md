@@ -75,7 +75,7 @@ This project demonstrates the ability to handle real-time data engineering, adva
 - **datetime**
   - Date and time parsing, window definitions, and time-based aggregations.
 
-**Summary Table**
+**Overall Overview of the Techstack**
 
 | Layer                  | Technology Used         | Purpose/Role                                      |
 |------------------------|------------------------|---------------------------------------------------|
@@ -85,4 +85,4 @@ This project demonstrates the ability to handle real-time data engineering, adva
 | Visualization          | Bokeh, Panel           | Interactive dashboards and time series plots      |
 | Date/Time Utilities    | datetime (Python std)  | Time parsing, windowing, aggregations             |
 
-This tech stack enabled robust, real-time, and explainable dynamic pricing for urban parking spaces, from raw data ingestion to interactive visualization.
+The above set of tech stack enabled robust, real-time, and explainable dynamic pricing for urban parking spaces, from raw data ingestion to interactive visualization.
