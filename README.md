@@ -41,3 +41,48 @@ I now have a robust, real-time pricing pipeline that:
 - Is ready for further enhancements, such as competitor price integration or rerouting suggestions
 
 This project demonstrates the ability to handle real-time data engineering, advanced pricing logic, and streaming analytics for smart urban mobility solutions.
+
+**TECH STACK USED FOR THE COMPLETION OF THE PROJECT**
+
+### 1. Programming Language
+
+- **Python**
+  - Core language for all data processing, modeling, and scripting.
+
+### 2. Data Processing & Analysis
+
+- **pandas**
+  - Data loading, cleaning, manipulation, and CSV export.
+- **numpy**
+  - Numerical operations and array manipulations.
+
+### 3. Real-Time Data Streaming & Windowing
+
+- **Pathway**
+  - Stream processing and real-time analytics.
+  - Tumbling window aggregations for daily pricing.
+  - Feature engineering and demand normalization in a streaming context.
+
+### 4. Visualization
+
+- **Bokeh**
+  - Interactive plotting for time series price visualization.
+- **Panel**
+  - Dashboarding and serving interactive Bokeh plots as web apps.
+
+### 5. Additional Python Standard Libraries
+
+- **datetime**
+  - Date and time parsing, window definitions, and time-based aggregations.
+
+**Summary Table**
+
+| Layer                  | Technology Used         | Purpose/Role                                      |
+|------------------------|------------------------|---------------------------------------------------|
+| Programming Language   | Python                 | All project logic and scripting                   |
+| Data Analysis          | pandas, numpy          | Data wrangling, feature engineering, calculations |
+| Streaming Framework    | Pathway                | Real-time data processing and windowing           |
+| Visualization          | Bokeh, Panel           | Interactive dashboards and time series plots      |
+| Date/Time Utilities    | datetime (Python std)  | Time parsing, windowing, aggregations             |
+
+This tech stack enabled robust, real-time, and explainable dynamic pricing for urban parking spaces, from raw data ingestion to interactive visualization.
